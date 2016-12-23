@@ -1,0 +1,14 @@
+kDPP (1000)
+Accuracy: 0.84
+Protected/non-protected in +ve class: 9% / 26%
+P-rule achieved: 37%
+Covariance between sensitive feature and decision from distance boundary : 0.517
+
+PartitionDPP (500,500)
+Accuracy: 0.82
+Protected/non-protected in +ve class: 14% / 15%
+P-rule achieved: 93%
+Covariance between sensitive feature and decision from distance boundary : 0.000
+
+
+github repo, 
